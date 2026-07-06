@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sonic.design/_0_dev/weather_mang/core-data/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest10580538078269847087.xml:2:13-83
+INJECTED from /Users/sonic.design/_0_dev/weather_mang/core-data/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest10580538078269847087.xml:2:13-83
+	package
+		INJECTED from /Users/sonic.design/_0_dev/weather_mang/core-data/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest10580538078269847087.xml
+	xmlns:android
+		ADDED from /Users/sonic.design/_0_dev/weather_mang/core-data/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest10580538078269847087.xml:2:23-81
+uses-sdk
+INJECTED from /Users/sonic.design/_0_dev/weather_mang/core-data/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest10580538078269847087.xml reason: use-sdk injection requested
+INJECTED from /Users/sonic.design/_0_dev/weather_mang/core-data/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest10580538078269847087.xml
+INJECTED from /Users/sonic.design/_0_dev/weather_mang/core-data/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest10580538078269847087.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sonic.design/_0_dev/weather_mang/core-data/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest10580538078269847087.xml
+	android:minSdkVersion
+		INJECTED from /Users/sonic.design/_0_dev/weather_mang/core-data/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest10580538078269847087.xml
